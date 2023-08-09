@@ -1,5 +1,5 @@
 # Login-Form
-It is simple login page using HTML, CSS and JS
+It is simple login page using HTML, CSS and JS this my task 1 for Technohacks Intership
 
 Fetures of this login page:
 
